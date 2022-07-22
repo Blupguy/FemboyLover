@@ -21,3 +21,8 @@ blup{
   text-decoration: underline;
   text-emphasis: bold;
 }
+
+.Copyright{
+  color: black;
+  text-align: left;
+}
