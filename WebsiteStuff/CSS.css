@@ -1,5 +1,5 @@
 body{
-  background-color: purple;
+  background-image: radial-gradient(circle at center, grey, black);
 }
 
 .Title{
