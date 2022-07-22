@@ -3,5 +3,6 @@ body{
 }
 
 .Title{
+  text-align: center;
   background-color: grey;
 }
