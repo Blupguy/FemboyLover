@@ -4,5 +4,13 @@ background-color: black;
 
 .Title {
   color: white;
-  text-align: center;  
+  text-align: center;
+}
+.faq{
+  color: white;
+  text-align: right;
+}
+blup{
+text-decoration: underline;
+text-emphasis: bold;
 }
