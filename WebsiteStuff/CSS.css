@@ -1,18 +1,22 @@
 body{
   background-image: linear-gradient(black,purple);
 }
+
 .Title {
   background-color: black;
   color: white;
   text-align: center;
 }
+
 .Main{
   background-color: white;
 }
+
 .FAQ{
   color: white;
   text-align: left;
 }
+
 blup{
   color: white;
   text-decoration: underline;
