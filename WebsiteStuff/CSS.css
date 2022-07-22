@@ -2,7 +2,6 @@ body{
 background-color: black;
 }
 
-h1  {
-  color: white;
-  text-decoration: underline;
+.Title {
+  text-align: center;
 }
