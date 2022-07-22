@@ -7,6 +7,9 @@ background-image: linear-gradient(black,purple);
   color: white;
   text-align: center;
 }
+.Main{
+  background-color: inherit;
+}
 .FAQ{
   color: white;
   text-align: left;
