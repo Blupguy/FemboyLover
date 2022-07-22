@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(black,purple);
+  background-image: linear-gradient(to bottom black,purple);
 }
 
 .Title {
@@ -18,7 +18,7 @@ body{
 }
 
 blup{
-  color: white;
+  color: blackz;
   text-decoration: underline;
   text-emphasis: bold;
 }
