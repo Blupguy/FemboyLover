@@ -3,10 +3,10 @@ body{
 }
 
 #container{
-  margin: 25px;
   height: 500px;
   width: 500px;
   position: relative;
+  center;
 }
 
 #image{
