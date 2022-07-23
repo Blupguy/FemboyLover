@@ -2,11 +2,26 @@ body{
   background-color: grey;
 }
 
-.Title{
-  background-color: grey;
+.container{
+  height: 400px;
+  width: 400px;
+  position: relative;
 }
-h1{
-  text-align: center;
+
+.Image{
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.Title{
+  z-index: 100;
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  left: 150px;
+  top: 350px;
 }
 
 .Copyright{
