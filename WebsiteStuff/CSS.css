@@ -1,32 +1,5 @@
-body{
-  background-color: grey;
-}
-
-#container{
-  height: 500px;
-  width: 500px;
-  position: relative;
-  center;
-}
-
-#image{
-  position: absolute;
-  left: 0;
-  top: 0;
-}
-
-#Title{
-  text-align: center;
-  z-index: 100;
-  position: absolute;
-  color: black;
-  font-size: 24px;
-  font-weight: bold;
-  left: 150px;
-  top: 150px;
-}
-
-.Copyright{
-  text-align: left;
-  text-decoration: underline;
+.banner{
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(255, 0, 0, 0.75),rgba(255, 0, 0, 0.75),url(MainPhoto.png););
 }
