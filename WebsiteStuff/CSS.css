@@ -76,5 +76,7 @@ width: 100%;
 
 .8ball{
 background-color: black;
-
+text-align: left;
+position: absolute;
+bottom: 0;
 }
